@@ -1,2 +1,1 @@
-# Lists
-A place of new favors
+This is a project filled with my notes to remember on sticky situations
